@@ -57,7 +57,7 @@
     "jsii-diff": "^1.70.0",
     "jsii-docgen": "^3.8.31",
     "json-schema": "^0.4.0",
-    "npm-check-updates": "^12",
+    "npm-check-updates": "^16",
     "projen": "^0.52.43",
     "standard-version": "^9",
     "ts-jest": "^27.1.5",
